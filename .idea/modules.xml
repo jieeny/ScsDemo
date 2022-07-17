@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RabbitmqDemo/RabbitmqDemo.iml" filepath="$PROJECT_DIR$/RabbitmqDemo/RabbitmqDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ScsDemo.iml" filepath="$PROJECT_DIR$/.idea/ScsDemo.iml" />
     </modules>
   </component>
